@@ -4,7 +4,7 @@ export TZ=UTC
 declare -a INPUT_FILES
 
 if [ $# -eq 0 ]; then 
-  INPUT_FILES=( samples/*.txt )
+  INPUT_FILES=( samples/Spiderman.txt )
 else
   INPUT_FILES=("${@}")
 fi
