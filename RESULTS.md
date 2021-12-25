@@ -2,7 +2,7 @@
 
 ## samples/bettino-craxi.txt:
 
-![Certificate samples/spiderman.txt](samples/spiderman.png)
+![Certificate samples/betinno-craxi.txt](samples/betinno-craxi.png)
 
 ```plain
 VR 0: C=PL,ID=URN:UVCI:01:PL:1/2A992C33754A4D379A7F61089485BB75,ISS=Centrum e-Zdrowia
@@ -10,7 +10,7 @@ KID: HhkeqvrtQ0U=
 Issued At: 2021-11-03 17:24:12 UTC
 Signed By: CN=Poland Vaccination DGC Service 1,OU=eHealth Centre,O=Ministry of Health,C=PL (issued by: CN=Poland DGC RootCSCA 1,O=Ministry of Health,C=PL)
 Expiration: 2023-05-26 11:53:10 UTC
-Personal Name: Spiderman
+Personal Name: Betino Craxi
 DOB: 1934-02-24
 ```
 
